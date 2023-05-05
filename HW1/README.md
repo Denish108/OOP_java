@@ -1,5 +1,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ___
+HW_1
 __Реализовать класс товар, содержащий следующие свойства:__
 
 1. Название
